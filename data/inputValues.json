@@ -1,0 +1,14 @@
+{
+  "firstNameInput": {
+    "specialChar": "@",
+    "empty": " ",
+    "maleName": "John",
+    "femaleName": "Sofia",
+    "femaleNameSecond": "Amelia"
+  },
+
+  "lastInitial": {
+    "initial": "K"
+  }
+
+}

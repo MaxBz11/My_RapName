@@ -1,0 +1,17 @@
+{
+  "firstNameInput": {
+    "errorMessage": "You must enter your first name.",
+    "femaleName": "Sofia"
+  },
+
+  "lastInitial": {
+    "initial": "K"
+  },
+
+  "list": {
+    "listTitle": "Your rap name is:",
+    "maleNameFirstLetter": "J",
+    "secondFemaleNameFirstLetter": "A"
+  }
+
+}
